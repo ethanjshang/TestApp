@@ -10,10 +10,10 @@
 		AA1F7AD920E89B4800688167 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1F7AD820E89B4800688167 /* AppDelegate.swift */; };
 		AA1F7ADB20E89B4800688167 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1F7ADA20E89B4800688167 /* ViewController.swift */; };
 		AA1F7ADE20E89B4800688167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA1F7ADC20E89B4800688167 /* Main.storyboard */; };
-		AA1F7AE020E89B4900688167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA1F7ADF20E89B4900688167 /* Assets.xcassets */; };
 		AA1F7AE320E89B4900688167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA1F7AE120E89B4900688167 /* LaunchScreen.storyboard */; };
 		AA1F7AEE20E89B4900688167 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1F7AED20E89B4900688167 /* FoodTrackerTests.swift */; };
 		AA1F7AF920E89B4900688167 /* FoodTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1F7AF820E89B4900688167 /* FoodTrackerUITests.swift */; };
+		AA3241A420F70E1500A30640 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA3241A320F70E1500A30640 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +38,6 @@
 		AA1F7AD820E89B4800688167 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA1F7ADA20E89B4800688167 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		AA1F7ADD20E89B4800688167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AA1F7ADF20E89B4900688167 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA1F7AE220E89B4900688167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA1F7AE420E89B4900688167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA1F7AE920E89B4900688167 /* FoodTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +46,7 @@
 		AA1F7AF420E89B4900688167 /* FoodTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA1F7AF820E89B4900688167 /* FoodTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerUITests.swift; sourceTree = "<group>"; };
 		AA1F7AFA20E89B4900688167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA3241A320F70E1500A30640 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 				AA1F7AD820E89B4800688167 /* AppDelegate.swift */,
 				AA1F7ADA20E89B4800688167 /* ViewController.swift */,
 				AA1F7ADC20E89B4800688167 /* Main.storyboard */,
-				AA1F7ADF20E89B4900688167 /* Assets.xcassets */,
+				AA3241A320F70E1500A30640 /* Images.xcassets */,
 				AA1F7AE120E89B4900688167 /* LaunchScreen.storyboard */,
 				AA1F7AE420E89B4900688167 /* Info.plist */,
 			);
@@ -230,7 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA1F7AE320E89B4900688167 /* LaunchScreen.storyboard in Resources */,
-				AA1F7AE020E89B4900688167 /* Assets.xcassets in Resources */,
+				AA3241A420F70E1500A30640 /* Images.xcassets in Resources */,
 				AA1F7ADE20E89B4800688167 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
